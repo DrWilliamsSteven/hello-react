@@ -1,4 +1,4 @@
-#Under constructions
+#React basic app
 
 This is a basic react app.
 
