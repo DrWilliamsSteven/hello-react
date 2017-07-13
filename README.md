@@ -1,4 +1,4 @@
-#React basic app
+# React basic app
 
 This is a basic react app.
 
